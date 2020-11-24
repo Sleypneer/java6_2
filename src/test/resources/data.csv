@@ -1,0 +1,2 @@
+ 'registered, under limit', 100060, true, 30,
+ 'not registered, under limit', 100060, false, 10
